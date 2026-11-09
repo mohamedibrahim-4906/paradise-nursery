@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="zz-plant">
+<rect width="200" height="200" fill="#dbeee3"/><ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+<path d="M100 130 Q74.0 60 39.4 110.5" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M100 130 Q82.8 60 59.8 92.9" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M100 130 Q94.8 60 87.8 83.8" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M100 130 Q105.2 60 112.2 83.8" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M100 130 Q117.2 60 140.2 92.9" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M100 130 Q126.0 60 160.6 110.5" stroke="#1d6b43" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M62 128 H138 L128 184 H72Z" fill="#c2693f"/><rect x="58" y="122" width="84" height="14" rx="4" fill="#d9794a"/>
+</svg>

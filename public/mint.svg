@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="mint">
+<rect width="200" height="200" fill="#e3f5e0"/><ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+<circle cx="72" cy="95" r="24" fill="#3fa34d"/><circle cx="128" cy="95" r="24" fill="#3fa34d"/><circle cx="100" cy="72" r="28" fill="#3fa34d"/><circle cx="86" cy="110" r="22" fill="#3fa34d"/><circle cx="116" cy="112" r="22" fill="#3fa34d"/>
+<path d="M62 128 H138 L128 184 H72Z" fill="#c2693f"/><rect x="58" y="122" width="84" height="14" rx="4" fill="#d9794a"/>
+</svg>

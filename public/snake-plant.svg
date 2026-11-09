@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="snake-plant">
+<rect width="200" height="200" fill="#dff1e4"/><ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+<path d="M100 130 L68.5 69.4 L108 130Z" fill="#2f7d4f"/><path d="M100 130 L81.4 52.7 L108 130Z" fill="#2f7d4f"/><path d="M100 130 L100.0 35.0 L108 130Z" fill="#2f7d4f"/><path d="M100 130 L118.6 52.7 L108 130Z" fill="#2f7d4f"/><path d="M100 130 L131.5 69.4 L108 130Z" fill="#2f7d4f"/>
+<path d="M62 128 H138 L128 184 H72Z" fill="#c2693f"/><rect x="58" y="122" width="84" height="14" rx="4" fill="#d9794a"/>
+</svg>

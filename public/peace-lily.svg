@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="peace-lily">
+<rect width="200" height="200" fill="#e4f2ec"/><ellipse cx="100" cy="186" rx="52" ry="7" fill="#000" opacity=".08"/>
+<ellipse cx="100" cy="85" rx="20" ry="32" transform="rotate(-50 100 130)" fill="#2a6f4a"/><ellipse cx="100" cy="85" rx="20" ry="40" transform="rotate(-20 100 130)" fill="#2a6f4a"/><ellipse cx="100" cy="85" rx="20" ry="40" transform="rotate(20 100 130)" fill="#2a6f4a"/><ellipse cx="100" cy="85" rx="20" ry="32" transform="rotate(50 100 130)" fill="#2a6f4a"/><ellipse cx="100" cy="85" rx="20" ry="43" transform="rotate(0 100 130)" fill="#2a6f4a"/>
+<path d="M62 128 H138 L128 184 H72Z" fill="#c2693f"/><rect x="58" y="122" width="84" height="14" rx="4" fill="#d9794a"/>
+</svg>
