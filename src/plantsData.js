@@ -1,6 +1,5 @@
 // 3 categories x 6 unique houseplants. Images are in /public/plants (swap for photo URLs if you like).
-const img = (file) => `${import.meta.env.BASE_URL}plants/${file}.svg`;
-
+const img = (file) => `/${file}.svg`;
 const plantsArray = [
   {
     category: 'Air Purifying Plants',
